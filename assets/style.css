@@ -1,0 +1,24 @@
+td,tr{
+    border: 1px solid red;
+    width: 64px;
+    height: 64px;
+}
+table{
+    border-collapse:collapse ;
+    border: 2px solid red;
+}
+.image{
+    width: 60px;
+    height: 60px;
+}
+#box{ 
+    margin-top: 5px;
+    width: 678px;
+    height: 80px;
+    border: 2px solid green;
+}
+#health{
+    width: 400px;
+    height: 32px;
+    
+}
